@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @14436715
+- 👋 Hi, I’m @Kerim-Ozek
 - 👀 I’m interested in chess
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
